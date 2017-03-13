@@ -1,0 +1,5 @@
+---
+git:
+  dir: /var/www/caseymcclureme
+  repo: https://github.com/CJMcClure/caseymcclureME
+  branch: master
